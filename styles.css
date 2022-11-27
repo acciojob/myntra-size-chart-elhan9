@@ -1,2 +1,21 @@
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 60%;
+}
 
+#head{
+    background-color: rgb(222, 190, 190);
+}
+
+#first{
+    background-color: rgb(242, 165, 165);
+}
+
+#second{
+    background-color: rgb(189, 185, 185);
+}
+#third{
+    background-color: rgb(241, 114, 114);
+}
 /* Your CSS Code here. */
